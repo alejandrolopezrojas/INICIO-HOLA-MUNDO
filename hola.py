@@ -23,3 +23,12 @@ print(type(1.5)) #tipo "float"
 print(type(True)) #tipo "bool"
 print(type(6 + 2j)) #tipo "complex"
 #hola, sigo sin entender bien como funciona el guardado en github
+#hola, ya es el segundo dia que estoy en esto
+#estoy haciendo diferentes pruebas para poder configurar bien mi github
+
+print(5+16)
+"""
+se supone que ya estoy configurando cada 
+vez mas el git hub, es que la verdad antes de
+ terminar las clases de python prefiero poder guardar todo esto
+ """
