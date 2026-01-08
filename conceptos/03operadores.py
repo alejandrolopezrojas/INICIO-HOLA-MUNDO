@@ -31,6 +31,7 @@ print("hola mundo " * 3)
 print("IA " * (int(12+4**3/15))) #tiene que ser int
 
 
+#AHORA LOS COMPARATIVOS
 print("""
       
  AHORA LOS COMPARATIVOS
@@ -63,6 +64,41 @@ print("aaaab" != "aaaa")
 """si queremos comparar por tamaño o numero
 de caracteres tenemos que usar "len", 
 como en el ejemplo que habia hecho hace un rato"""
-v1 = str(input("v1= "))
+"""v1 = str(input("v1= "))
 v2 = str(input("v2= "))
 print((len(v1)>=len(v2)))
+"""
+
+
+
+#AHORA LOS LOGICOS
+print("""
+      
+ AHORA LOS LOGICOS
+      
+           """)
+
+#AND 
+print(True and True) #false supera a true
+print(True and False)
+print(False and True)
+print(False and False)
+
+#OR
+print(True or True) #true supera a false
+print(True or False)
+print(False or True)
+print(False or False)
+
+#not
+print(not(True)) #genera el resultado contrario
+print(not(False))
+
+
+
+
+
+
+
+
+
