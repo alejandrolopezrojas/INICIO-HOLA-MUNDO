@@ -41,3 +41,9 @@ num_tex = "34215246534478"
 print(len(texto))
 print(len(num_tex))
 
+#tambien se pueden hacer varias variables en una sola linea
+
+fruta, animal, x, lugar = "banano", "gato", 13.234, "floridablanca"
+
+print("mi fruta favorita es", fruta, "mi mascota es un", animal, x, lugar)
+
