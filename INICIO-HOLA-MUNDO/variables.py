@@ -47,3 +47,9 @@ fruta, animal, x, lugar = "banano", "gato", 13.234, "floridablanca"
 
 print("mi fruta favorita es", fruta, "mi mascota es un", animal, x, lugar)
 
+#IMPUT, ESTO ES BASTANTE IMPORTANTE, NOS PERMITE INGRERSAR DATOS
+
+deporte = input("¿que deporte practicas? ")
+
+print("el deporte que", nombre, "practica es", deporte)
+
