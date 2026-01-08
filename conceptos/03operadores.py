@@ -31,3 +31,38 @@ print("hola mundo " * 3)
 print("IA " * (int(12+4**3/15))) #tiene que ser int
 
 
+print("""
+      
+ AHORA LOS COMPARATIVOS
+           """)
+print(10 > 5)
+print(10 < 5)
+print(10 >= 5)
+print(10 <= 5)
+print(10 == 5)
+print(10 != 5)
+
+"""
+#este es un pequeño experimento personal que se me ocurrio
+v1 = str(input("v1= "))
+v2 = str(input("v2= "))
+print((len(v1)>=len(v2)))
+
+"""
+
+#tambien se pueden operar str=
+
+print("aaaab" > "aaaaa")
+print("b" < "aaaaaa")#estos comparan por ordenación alfabetica
+print("aaaab" >= "aaaa")
+print("aaaab" <= "aaaa")
+print("aaaab" == "aaaa")
+print("aaaab" != "aaaa")
+
+
+"""si queremos comparar por tamaño o numero
+de caracteres tenemos que usar "len", 
+como en el ejemplo que habia hecho hace un rato"""
+v1 = str(input("v1= "))
+v2 = str(input("v2= "))
+print((len(v1)>=len(v2)))
