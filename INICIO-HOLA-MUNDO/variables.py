@@ -32,6 +32,12 @@ un print con variables y funciones adentro """
 
 print(type(print("esto es una prueba", edad)))
 
+#ahora vamos con algunas funciones del sistema
 
+#len sirve para contar caracteres dentro de una función
+texto = "adhcdqmndwncumiqhfnqwfomqwof"
+num_tex = "34215246534478"
 
+print(len(texto))
+print(len(num_tex))
 
