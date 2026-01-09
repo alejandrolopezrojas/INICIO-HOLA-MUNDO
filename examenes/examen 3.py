@@ -1,3 +1,48 @@
+"""
+RETO PYTHON – NIVEL AVANZADO
+
+Reglas:
+No se permite el uso de if, for, while, listas, funciones ni imports.
+Solo se pueden usar: print, input, variables, int, str, bool,
+operadores aritméticos, comparativos, lógicos y len.
+El programa debe ejecutarse sin errores.
+
+Punto 1:
+Solicita dos números al usuario (ingresados como texto).
+Imprime:
+- la suma como número
+- el tipo de la suma
+- si la suma es mayor o igual a 100
+
+Punto 2:
+Solicita una palabra al usuario.
+Imprime:
+- la palabra
+- la cantidad de caracteres
+- si la longitud es par
+
+Punto 3:
+Sin ejecutar el código, determina el resultado (True o False) de las siguientes comparaciones
+y explica la razón:
+- "Zebra" > "apple"
+- "python" < "Python"
+- "aaa" > "aa"
+
+Punto 4:
+Solicita una entrada cualquiera al usuario.
+Convierte el valor a booleano e imprime:
+- el valor original
+- el valor booleano
+- el tipo del booleano
+Luego responde:
+¿Qué debe escribir el usuario para que el booleano sea False?
+
+Punto 5:
+Solicita dos palabras al usuario.
+El programa debe imprimir True o False según se cumpla que:
+- la primera palabra tenga una longitud mayor o igual que la segunda
+- y ambas palabras no sean iguales
+"""
 
 #punto 1
 num1 = int(input("num1= "))

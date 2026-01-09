@@ -1,108 +1,36 @@
 
 """
-🧠 NIVEL 1 – VARIABLES (CALENTAMIENTO)
-🟢 Ejercicio 1
+EXAMEN 1 – FUNDAMENTOS DE PYTHON
 
-Crea variables con:
+Punto 1:
+Crea variables para tu nombre, edad y altura.
+Imprime una frase con esos datos en una sola línea.
 
-tu edad
+Punto 2:
+Crea dos variables a = 10 y b = 3.
+Imprime la suma, resta, multiplicación y división.
 
-tu altura
+Punto 3:
+Solicita al usuario su nombre y su edad.
+Imprime el nombre registrado y la edad que tendrá el próximo año.
 
-tu nombre
+Punto 4:
+Solicita al usuario dos números.
+Imprime la suma y la multiplicación de ambos.
 
-Luego imprime una frase así:
+Punto 5:
+Solicita la edad al usuario.
+Imprime True si es mayor o igual a 18, False en caso contrario.
 
-Hola, me llamo ___, tengo ___ años y mido ___ metros
+Punto 6:
+Crea una variable num.
+Imprime su tipo de dato y el resultado de multiplicarlo por 2.
 
-📌 Pista:
+Punto 7:
+Solicita el nombre y el año de nacimiento.
+Imprime cuántos años tendrá en el año 2026.
+"""
 
-print("texto", variable)
-
-🟢 Ejercicio 2
-
-Crea dos variables:
-
-a = 10
-
-b = 3
-
-Imprime:
-
-suma
-
-resta
-
-multiplicación
-
-división
-
-🧠 NIVEL 2 – INPUT (YA COMO PROGRAMADOR)
-🟡 Ejercicio 3
-
-Pídele al usuario:
-
-su nombre
-
-su edad
-
-Imprime:
-
-Nombre registrado: ___
-Edad el próximo año: ___
-
-📌 Pista:
-
-edad = int(edad)
-
-🟡 Ejercicio 4
-
-Pídele al usuario dos números y muestra:
-
-suma
-
-multiplicación
-
-⚠️ Ojo: input() siempre llega como texto.
-
-🧠 NIVEL 3 – LÓGICA SIMPLE (YA SE VE SERIO 😎)
-🔵 Ejercicio 5
-
-Pide la edad al usuario y muestra:
-
-True si es mayor o igual a 18
-
-False si no
-
-📌 Pista:
-
-print(edad >= 18)
-
-🔵 Ejercicio 6
-
-Crea una variable numero
-Imprime:
-
-su tipo con type()
-
-y el número multiplicado por 2
-
-🧠 NIVEL 4 – RETO (ESTE ME GUSTA 👀🔥)
-🔴 Ejercicio 7
-
-Pide:
-
-nombre
-
-año de nacimiento
-
-Calcula e imprime:
-
-Hola ___, en 2026 tendrás ___ años
-
-📌 Pista:
-
-edad = 2026 - nacimiento"""
 
 #punto 1
 
