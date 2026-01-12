@@ -47,7 +47,7 @@ print(
     (nombre.startswith("a") or nombre.startswith("A"))
     and (apellido.count("o") >= 1 or apellido.count("O") >= 1)
     and not(ciudad.startswith("x"))
-    and nombre.lower != palabra_clave.lower
+    and nombre.lower() != palabra_clave.lower()
     and len(apellido) > len(palabra_clave)
     and (numero >= 10 and numero <= 100)
     and not(str(numero).count("0") >=1)
