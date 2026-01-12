@@ -1,4 +1,12 @@
-print("Hola Mundo".upper())
+x = "alejandro"
+print(int(x))
+
+
+
+
+
+
+
 
 
 
